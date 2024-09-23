@@ -1,0 +1,1 @@
+# plugins-kama-thumbnail
